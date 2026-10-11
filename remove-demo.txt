@@ -1,0 +1,1 @@
+Thjhis is the file for git rm and git mv oractice
